@@ -6,7 +6,7 @@
     RUN apk add --no-cache git
     
     # Clone your frontend repo
-    RUN git clone https://github.com/phani2498/docker-frontend-s117.git .
+    RUN git clone https://github.com/sriharshaklu/docker-frontend-s204-main.git .
     
     # Install deps and build
     RUN npm install
